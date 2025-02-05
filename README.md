@@ -28,12 +28,12 @@ Este projeto consiste na implementação de um semáforo utilizando o microcontr
 
 ## Instrução de Uso
 
-1 - Clone o repositório do projeto:
+1. Clone o repositório do projeto:
 https://github.com/FilipeVBF/EmbarcaTech_tarefa_semaforo.git
-2 - Importe a pasta do projeto para o ambiente de desenvolvimento do Pico SDK.
-3 - Carregue o programa no Raspberry Pi Pico W
-4 - Compile o código
-5 - Para execução na simulação do Wokwi, abra o arquivo diagram.json e inicie a simulação
-6 - Conecte o hardware conforme a configuração sugerida.
-7 - Abra um monitor serial para visualizar as mensagens enviadas a cada segundo.
-8 - Observe o ciclo de transição dos LEDs seguindo a sequência vermelho -> amarelo -> verde.
+2. Importe a pasta do projeto para o ambiente de desenvolvimento do Pico SDK.
+3. Carregue o programa no Raspberry Pi Pico W
+4. Compile o código
+5. Para execução na simulação do Wokwi, abra o arquivo diagram.json e inicie a simulação
+6. Conecte o hardware conforme a configuração sugerida.
+7. Abra um monitor serial para visualizar as mensagens enviadas a cada segundo.
+8. Observe o ciclo de transição dos LEDs seguindo a sequência vermelho -> amarelo -> verde.
